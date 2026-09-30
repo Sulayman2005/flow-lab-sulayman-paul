@@ -8,6 +8,6 @@ public class Salutation {
 
   static String saluer(String nom) {
     // TODO: chaque membre du groupe ajoute ICI sa salutation, dans sa propre branche.
-    return "Coucou toi, " + nom + "!";
+    return "Salut à tous, " + nom + "!";
   }
 }
